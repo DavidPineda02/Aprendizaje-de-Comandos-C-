@@ -120,7 +120,7 @@ Sigue estos pasos para aprovechar al máximo esta herramienta:
 
 
 
-## Contribuciones y licencia
+## Contribuciones y licencia 
 
 Agradecemos tus contribuciones al proyecto! Si deseas colaborar, sigue los siguientes pasos:
 
