@@ -2,7 +2,7 @@
  
 ¡Bienvenido al Software de Aprendizaje de Comandos C#! Aquí encontrarás una herramienta diseñada para mejorar tu memoria mecánica en relación a los comandos. Este proyecto está destinado a apoyar tu aprendizaje en el uso de los comandos que se mencionarán y que hacen referencia al siguiente repositorio: [Repo_Konny](https://github.com/konnylisethalucematorresCAMPUS/KonnyWebApi):
 
-## Tabla de Contenidos 
+## Tabla de Contenidos  
 
 - [Parte 1](#parte-1)
 - [Parte 2](#parte-2)

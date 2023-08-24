@@ -7,7 +7,7 @@ const comands_part_one = {
     4: "dotnet new classlib -o Aplicacion",
     5: "dotnet new webapi -o ApiIncidencias",
     6: "dir"
-}
+} 
 
 const commands_part_two = {
     1: "dotnet sln add Dominio",
