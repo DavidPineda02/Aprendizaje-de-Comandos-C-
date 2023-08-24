@@ -222,9 +222,10 @@ function validation_p2_c2() {
         console.log("████╗ ██║██║██╔═══║██╔═══╝");
         console.log("██╔██╗██║██║██║   ║█████╗ ");
         console.log("██║╚████║██║██║   ║██╔══╝ ");
-        console.log("██║ ╚███║██║██████║██████╗");
+        console.log("██║ ╚███║██║██████║██████╗");    
         console.log("╚═╝  ╚══╝╚═╝╚═════╝╚═════╝");
         console.log("");
+        
     } else {
         console.clear();
         console.log("");
