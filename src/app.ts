@@ -590,7 +590,6 @@ do {
 
         console.log('');
 
-
         switch (opcion) {
             case (1): validation_p1_c1();
                 break
@@ -619,7 +618,6 @@ do {
 
         const opcion = readLineSync.questionInt('Ingresa la opcion que deseas: ');
         console.log('');
-
 
         switch (opcion) {
             case (1): validation_p2_c1();
@@ -652,7 +650,6 @@ do {
 
         const opcion = readLineSync.questionInt('Ingresa la opcion que deseas: ');
         console.log('');
-
 
         switch (opcion) {
             case (1): validation_p3_c1();
