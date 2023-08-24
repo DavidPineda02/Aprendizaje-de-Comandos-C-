@@ -92,7 +92,7 @@ Sigue estos pasos para instalar TypeScript:
 
 ## ¿Cómo Utilizarlo?
 
-> **IMPORTANTE:**
+> **IMPORTANTE:** 
 >
 > Para utilizar esta herramienta, es necesario tener TypeScript instalado. Si no lo tienes, sigue los pasos de [Instalación de TypeScript](#instalación-de-typescript).
 
